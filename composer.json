@@ -1,7 +1,7 @@
 {
-    "name": "ibrahim-eng12/laravel-log-viewer",
+    "name": "ibrahim-eng12/log-owl",
     "description": "A Laravel package to view, navigate, filter logs with descriptions and solutions",
-    "keywords": ["laravel", "logs", "viewer", "debug", "error-handling"],
+    "keywords": ["laravel", "logs", "viewer", "debug", "error-handling", "logowl", "log-owl"],
     "license": "MIT",
     "authors": [
         {
